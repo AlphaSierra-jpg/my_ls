@@ -25,5 +25,6 @@ This program is an interpretation of the "ls" function on linux. It integrates t
   -d : Directories are listed as plain files (not searched recursively)
 ```
 you can try for example:
-```my_ls -A -l -L ~/ /etc
+```
+my_ls -A -l -L ~/ /etc
 
