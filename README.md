@@ -27,4 +27,3 @@ This program is an interpretation of the "ls" function on linux. It integrates t
 you can try for example:
 ```
 my_ls -A -l -L ~/ /etc
-
